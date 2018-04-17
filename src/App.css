@@ -1,0 +1,24 @@
+@import '~antd/dist/antd.css';
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush');
+
+body {
+  background: linear-gradient(to right, #36d1dc, #5b86e5);
+}
+
+.app {
+  height: 100%;
+  padding: 50px;
+  width: 100%;
+}
+
+.header {
+  font-family: 'Caveat Brush', cursive;
+  padding: 0 20px;
+  text-align: center;
+  text-shadow: 1px 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.header h1 {
+  color: #fff;
+  font-size: 3rem;
+}
